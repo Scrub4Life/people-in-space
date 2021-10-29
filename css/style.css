@@ -19,6 +19,10 @@ body {
   background-repeat: no-repeat;
 }
 
+footer {
+  text-align: center;
+}
+
 h1 {
   font-size: 56px;
   line-height: 1.15;
